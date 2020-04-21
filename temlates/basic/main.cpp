@@ -1,4 +1,4 @@
-#include "nontype_class_template_v1.h"
+#include "nontype_template_stack_v2.h"
 #include <iostream>
 #include <string>
 
