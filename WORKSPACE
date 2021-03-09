@@ -1,1 +1,1 @@
-workspace(name = "cppexamples")
+workspace(name = "com_native_xamples")
