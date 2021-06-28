@@ -13,7 +13,9 @@
                 "/usr/local/include",
                 "/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed",
                 "/usr/include/x86_64-linux-gnu",
-                "/usr/include"
+                "/usr/include",
+                "/usr/lib/jvm/java-8-openjdk-amd64/include/linux",
+                "/usr/lib/jvm/java-8-openjdk-amd64/include"
             ]
         }
     ],
