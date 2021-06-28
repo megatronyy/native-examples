@@ -52,6 +52,7 @@
         "set": "cpp",
         "string": "cpp",
         "string_view": "cpp",
-        "bit": "cpp"
+        "bit": "cpp",
+        "cinttypes": "cpp"
     }
 }
