@@ -53,6 +53,10 @@
         "string": "cpp",
         "string_view": "cpp",
         "bit": "cpp",
-        "cinttypes": "cpp"
-    }
+        "cinttypes": "cpp",
+        "regex": "cpp"
+    },
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.cStandard": "c17"
 }
