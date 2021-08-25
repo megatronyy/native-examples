@@ -54,7 +54,8 @@
         "string_view": "cpp",
         "bit": "cpp",
         "cinttypes": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "stdlib.h": "c"
     },
     "C_Cpp.clang_format_fallbackStyle": "Google",
     "C_Cpp.default.cppStandard": "c++17",
