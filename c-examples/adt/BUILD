@@ -14,3 +14,10 @@ cc_library(
         "some_struct.c"
     ]
 )
+
+cc_binary(
+    name = "polym",
+    srcs = [
+        "polym.c"
+    ]
+)
